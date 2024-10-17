@@ -1,0 +1,54 @@
+reguły inegralności
+1nf
+2nf
+3nf
+
+
+hierarchia
+
+
+integralnosc danych
+
+encja
+w kolumnie nie moze byc brakow
+integralnosc encji
+
+create schema, create database
+
+referncja
+
+
+schemat SZBD
+-Moduł zarządzania pamięcia
+przechowuje informacje o miejscu zapisania plikow bazy danych na dysku oraz obsluguje pamięć opeacyjna
+-Procesor zapytań
+przekształca
+-Moduł zarządzania tansakcjami
+
+
+iloczyn kapryzjanski
+
+erd
+
+
+normalizacja bazy danych
+ proces minmializacje redundancji
+trzymanie danych w jednym miejsu a w razie potrzeby linkowanie danych
+zwieksza bezpieczenstwo
+zmniejsza ryzyko powstania niespojnosci
+
+
+
+postacie normalne nf
+normalizacja konkretnej postaci moze wymagac rozbicia bazy danych na mniejsze tabele
+
+anomalia modyfikacji
+
+
+
+przysiegna normalizacji
+-bez powtorzen
+-pola zaleza od klucza
+-od calego klucza
+i niczego innego, tylko klucza
+
